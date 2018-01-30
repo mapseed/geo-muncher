@@ -1,0 +1,23 @@
+{
+  "name": "esri-mapbox",
+  "version": "1.0.0",
+  "description": "Move data from ESRI endpoints to Mapbox",
+  "engines": {
+    "node": "==6.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agsout": "^1.0.3",
+    "aws-sdk": "^2.188.0",
+    "dotenv": "^4.0.0",
+    "mapbox": "^1.0.0-beta9",
+    "request": "^2.83.0",
+    "shelljs": "^0.8.1"
+  }
+}
