@@ -1,0 +1,16 @@
+{
+  "name": "vector-category-colorizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.188.0",
+    "colorsys": "^1.0.20",
+    "request": "^2.83.0"
+  }
+}
