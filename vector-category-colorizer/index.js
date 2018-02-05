@@ -117,8 +117,8 @@ const HSV_STOPS = [
   [288, 73, 19],
 ];
 
-const TARGET_LAYER = "geology";
-const TARGET_CATEGORY = "GEOLOGIC_A";
+// const TARGET_LAYER = "geology";
+// const TARGET_CATEGORY = "GEOLOGIC_A";
 
 const interpolateHSVPair = (lowerStop, upperStop, numSteps) => {
   const colorStops = [];
